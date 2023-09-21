@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMDBDataImporter", "IMDBDataImporter\IMDBDataImporter.csproj", "{FEE6A4A2-38D9-4CEC-9790-FCE8464CEBD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE6A4A2-38D9-4CEC-9790-FCE8464CEBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE6A4A2-38D9-4CEC-9790-FCE8464CEBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE6A4A2-38D9-4CEC-9790-FCE8464CEBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE6A4A2-38D9-4CEC-9790-FCE8464CEBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {191F03B1-D5B5-4DCD-A9D2-F0CF2C89A0E1}
+	EndGlobalSection
+EndGlobal
